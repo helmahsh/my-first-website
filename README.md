@@ -10,7 +10,7 @@ This is my first project where I practiced HTML and CSS. I'm currently learning 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+
 
 ## Goal
 I am building my portfolio to pursue my goal of becoming a professional web developer.
