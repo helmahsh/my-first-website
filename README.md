@@ -4,7 +4,6 @@
 This is my first project where I practiced HTML and CSS. I'm currently learning web development!
 
 ## Features
-- Multi-language support (English/Persian)
 - Responsive design
 - Clean and semantic HTML structure
 
